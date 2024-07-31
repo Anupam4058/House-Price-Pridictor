@@ -1,0 +1,13 @@
+Model outputs
+
+1. Linear regression
+    Mean:  5.037482786117751
+    Standard deviation:  1.059438240560695
+
+2. Descion Tree 
+    Mean:  4.243964486103171
+    Standard deviation:  0.7745743609848269
+
+3. Random forest regressor
+    Mean:  3.344926448035661
+    Standard deviation:  0.5937494762820382
